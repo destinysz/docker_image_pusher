@@ -1,5 +1,7 @@
 --platform=linux/arm64 nginx
 --platform=linux/arm64 mysql:8.0.38
+--platform=linux/arm64 rabbitmq:4.0.6-management
+--platform=linux/arm64 redis:7.4
 
 
 
