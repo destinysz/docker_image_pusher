@@ -3,6 +3,7 @@
 --platform=linux/arm64 rabbitmq:4.0.6-management
 --platform=linux/arm64 redis:7.4
 --platform=linux/arm64 postgres:17
+--platform=linux/arm64 mariadb:11.8
 
 
 
